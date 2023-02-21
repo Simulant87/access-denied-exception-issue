@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "features.open-api",
+      "type": "java.lang.String",
+      "description": "Enables OpenAPI api-doc & swagger-ui."
+    }
+  ]
+}

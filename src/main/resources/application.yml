@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+# Enable Spring Actuator health endpoint
+management:
+  endpoint:
+    health:
+      enabled: true
+
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
