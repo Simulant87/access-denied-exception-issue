@@ -1,7 +1,7 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-	val springBootVersion = "3.0.2"
+	val springBootVersion = "2.7.8"
 	val kotlinVersion = "1.8.0"
 
 	java
